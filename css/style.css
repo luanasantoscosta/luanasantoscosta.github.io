@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+*
+{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body
+{
+  min-height: 98vh;
+  font-size: 30px;  
+  background-color: black;
+}
+header
+{
+  background-color: black;
+}
+header h1
+{
+  padding-top: 20px;
+  padding-bottom: 40px;
+  text-align: center;
+  font-family: 'Passion', cursive;
+  color: #ebcfa5;
+}
+main
+{
+  background-color: #ebcfa5;
+}
+article section p
+{
+  font-family: 'Sriracha', cursive;
+}
+.img
+{
+  background-image: url(../imagens/coffe.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  height: 930px;
+}
+.transp
+{
+  background-color: #0000004d;
+  height: 800px;
+  width: 400px;
+  margin-left: 40px;
+  color: #ebcfa5;;
+}
+footer
+{
+  background-color: black;
+  color: white;
+  font-family: 'Passion', cursive;
+  text-align: center;
+  font-style: italic;
+}
