@@ -56,3 +56,10 @@ footer
   text-align: center;
   font-style: italic;
 }
+header a
+{
+  background-color: black;
+  color: white;
+  font-family: 'Passion', cursive;
+  text-decoration: none;
+}
