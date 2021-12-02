@@ -46,7 +46,7 @@ article section p
   height: 800px;
   width: 360px;
   margin-left: 40px;
-  color: #ebcfa5ad;;
+  color: #ebcfa5ad;
 }
 footer
 {
@@ -62,4 +62,12 @@ header a
   color: #ffffff;
   font-family: 'Passion', cursive;
   text-decoration: none;
+  padding: 10px 10px 0px 10px;
+}
+header a:hover 
+{
+  color: black;
+  background-color: #ebcfa5;
+  border-left: 10px;
+  border-right: 10px;
 }
