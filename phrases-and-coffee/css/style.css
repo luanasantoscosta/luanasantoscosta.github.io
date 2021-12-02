@@ -46,7 +46,7 @@ article section p
   height: 800px;
   width: 360px;
   margin-left: 40px;
-  color: #ebcfa5;;
+  color: #ebcfa5ad;;
 }
 footer
 {
@@ -59,7 +59,7 @@ footer
 header a
 {
   background-color: black;
-  color: white;
+  color: #ffffff;
   font-family: 'Passion', cursive;
   text-decoration: none;
 }
